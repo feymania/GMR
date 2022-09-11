@@ -1,4 +1,4 @@
-# gmr-community-scripts
+# GMR Community Scripts
 
 Welcome to the official GMR repository.
 You will find all plugins and profiles free and developed by the community, for the community

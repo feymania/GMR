@@ -14,3 +14,7 @@ Please use underscore case as naming convention of your files.
 Some examples:
  * mage_frost_aoe_rotation.lua
  * questing_kalimdor_1_to_80.lua
+
+## Available Scripts
+
+[Herbalism | Life Blood](https://gitlab.com/gmr-wow/gmr-community-scripts/-/tree/main/plugins/wotlk/custom/professions/herbalism/life_blood.lua)
